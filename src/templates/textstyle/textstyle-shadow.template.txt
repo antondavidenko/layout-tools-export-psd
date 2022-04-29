@@ -1,0 +1,1 @@
+    "shadow": { "color": "{{color}}", "fill": "true", "blur": "{{blur}}", "offsetX": "{{offsetX}}", "offsetY": "{{offsetY}}" },

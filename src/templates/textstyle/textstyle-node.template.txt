@@ -1,0 +1,5 @@
+  { "id": "{{name}}",
+    "fontFamily": "gamefont",
+    "fill": "{{color}}",
+    "align": "center"{{shadow}}{{stroke}}
+  }

@@ -1,0 +1,4 @@
+/* eslint-disable camelcase */
+export type {{name}}LayoutList = {
+{{list}}
+}
